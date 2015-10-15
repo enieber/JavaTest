@@ -4,5 +4,4 @@ Este projeto é apenas uma forma de aprender testes unitarios no Java com o JUni
 
 [Problema](http://dojopuzzles.com/problemas/exibe/troco/)
 
-Bem vindo a novos Testes
-
+Teste
